@@ -11,3 +11,5 @@ Flashcards are based on his notes and most of them are screenshots taken from th
 You can disable cards by tag if you want to focus on specific types (e.g. definitions only).
 
 Setup: when importing the package, skip my progress. You can also adjust the number of cards per day in the deck settings.
+
+If you have any suggestions, open an [issue] (https://github.com/lanae99/linear-algebra-anki/issues).
